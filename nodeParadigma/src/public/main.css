@@ -1,0 +1,31 @@
+html {
+  font-family: sans-serif;
+  line-height: 1.5;
+  color: rgb(0, 0, 0);
+}
+
+body {
+  margin: 0 auto;
+  max-width: 500px;
+  background-image: url('/images/vortex-5142618.svg');
+  background-size: cover;
+
+}
+.antiquewhite{
+  background-color: antiquewhite;
+}  
+label,
+input {
+  display: block;
+  margin: 5px 0;
+  
+}
+
+button {
+  padding: 10px;
+  display: block;
+  width: 100%;
+  background: #715799;
+  border-color: rgb(249, 215, 250);
+  
+}
